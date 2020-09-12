@@ -4,7 +4,7 @@
 
 * <h4> University </h4>
 
-    * Apple
+    * Apple <br/>
       Machine Learning and AI:
        [Intern](
 https://jobs.apple.com/en-us/search?team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+computer-vision-MLAI-CV+natural-language-processing-and-speech-technologies-MLAI-NLP+applied-research-MLAI-AR+internships-STDNT-INTRN)
