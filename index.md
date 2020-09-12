@@ -12,7 +12,7 @@ https://jobs.apple.com/en-us/search?team=machine-learning-infrastructure-MLAI-ML
     
 * <h4> Experienced </h4>
 
-    * Apple
+    * Apple <br/>
       Machine Learning and AI: Machine Learning Infrastructure (Team)
       
         1. [Data Scientist](https://jobs.apple.com/en-us/search?search=Data%20Scientist&sort=relevance)
