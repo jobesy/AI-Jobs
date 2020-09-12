@@ -5,7 +5,7 @@
 * <h4> University </h4>
 
     * Apple <br/>
-      Machine Learning and AI:
+      1. Machine Learning and AI:
        [Intern](
 https://jobs.apple.com/en-us/search?team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+computer-vision-MLAI-CV+natural-language-processing-and-speech-technologies-MLAI-NLP+applied-research-MLAI-AR+internships-STDNT-INTRN)
 
@@ -15,9 +15,9 @@ https://jobs.apple.com/en-us/search?team=machine-learning-infrastructure-MLAI-ML
     * Apple
       Machine Learning and AI: Machine Learning Infrastructure (Team)
       
-        1. Data Scientist
-        2. Machine Learning/AI - Engineer
-        3. Data Analyst
+        1. [Data Scientist](https://jobs.apple.com/en-us/search?search=Data%20Scientist&sort=relevance)
+        2. [Machine Learning/AI - Engineer](https://jobs.apple.com/en-us/search?search=Machine%20Learning%20%20Engineer&sort=relevance)
+        3. [Data Analyst](https://jobs.apple.com/en-us/search?search=Data%20Analyst&sort=relevance)
         
           
 * <h4> Resources </h4>
