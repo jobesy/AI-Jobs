@@ -18,7 +18,10 @@ https://jobs.apple.com/en-us/search?team=machine-learning-infrastructure-MLAI-ML
         1. [Data Scientist](https://jobs.apple.com/en-us/search?search=Data%20Scientist&sort=relevance)
         2. [Machine Learning/AI - Engineer](https://jobs.apple.com/en-us/search?search=Machine%20Learning%20%20Engineer&sort=relevance)
         3. [Data Analyst](https://jobs.apple.com/en-us/search?search=Data%20Analyst&sort=relevance)
-        
+     * Open-AI <br/>
+        1.  [Open AI](https://openai.com/jobs/)
+     * Deep Mind<br/>
+        1. [DeepMind](https://deepmind.com/careers/jobs)
           
 * <h4> Resources </h4>
 * <h4> 💡 Tips </h4>
